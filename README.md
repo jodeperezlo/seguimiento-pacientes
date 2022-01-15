@@ -23,3 +23,4 @@ npm run dev
 ```cmd
 npm run build
 ```
+El proyecto fue elaborado por [Jorge de Jesús Pérez López](https://portfolio-jorgeperez.netlify.app/), pero el actor intelectual del mismo, es el profesor [Juan de la Torre](https://codigoconjuan.com/). El proyecto fue desarrollado en el curso de [React - La Guía Completa: Hooks Context Redux MERN +15 Apps](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/).
